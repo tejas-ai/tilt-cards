@@ -12,9 +12,9 @@ The package is `com.tejashandigol.tiltcards.creator`. This is version 1.16, buil
 
 ## Screenshot
 
-<img src="screenshots/tilt-cards-preview.png" alt="Tilt Cards Creator controls and creator card from an earlier build" width="320">
+<img src="screenshots/tilt-cards-preview.png" alt="Tilt Cards Creator v1.16 with the Portrait Cover creator card" width="320">
 
-This on-phone screenshot shows the sunset theme and wallpaper controls from the earlier build. The downloadable APK includes the Portrait Cover creator card.
+Tilt Cards Creator v1.16 with the sunset controls and Portrait Cover creator card.
 
 ## Features
 
